@@ -161,9 +161,11 @@ Elementの挿入が成功する
 
 
 もちろん、存在しない親ノードの子を挿入させるときは、
+
 ![](https://velog.velcdn.com/images/wonjongseo/post/c0dfa85a-6f47-4ce6-a08e-07c7285e510a/image.png)
 
 警告メッセージを出力します。
+
 ![](https://velog.velcdn.com/images/wonjongseo/post/b86b5156-0345-43fb-84e3-00079d17f584/image.png)
 
 
