@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="finalXMlProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/finalXMlProject_jar</output-path>
+    <root id="archive" name="finalXMlProject.jar">
+      <element id="module-output" name="finalXMlProject" />
+    </root>
+  </artifact>
+</component>
